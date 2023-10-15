@@ -67,3 +67,21 @@ There are two ways to execute the end to end flow.
 
 Follow the instructions in the notebook `Image_Coloring_using_Transfer_Learning.ipynb`
 
+## Steps to Run
+
+### Input images
+
+![t5](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/da95f1e7-3bb0-449d-a66d-134c32f17a7d)
+![t4](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/923051a9-99ee-4673-b9b0-ef9f83b9787c)
+![t3](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/b0ac7c2b-66f9-4968-af00-c8aef87e691b)
+![t2](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/15ac67a9-c2ed-4aa1-9207-ae25f3eec529)
+![t1](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/f8236e7b-f177-44f3-8a82-651ad46ee771)
+
+
+### Output images
+
+![generated_images4](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/08738ae3-9739-4d42-ac89-7bb57849b05e)
+![generated_images3](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/1888dd1d-3fe7-4bc6-8df4-598f193abc2c)
+![generated_images2](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/04c78575-e171-4114-a7c8-5c76fc349ce5)
+![generated_images1](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/a9c9cb71-8ed1-472c-8174-d46ebfba624c)
+![generated_images0](https://github.com/vaibhavtiwari/ImageColoring-Autoencoder/assets/84077845/b25e1af7-3cbf-49b0-86ba-57b58e069213)
